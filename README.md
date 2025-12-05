@@ -2,6 +2,12 @@
 
 A modern, accessible nested menu drawer component built with Next.js, React, TypeScript, and Tailwind CSS. Features smooth animations, drag-to-close functionality, and responsive design.
 
+## Preview
+
+![Overview_0](https://github.com/user-attachments/assets/89664423-9afa-447f-9661-90aab5a64515)
+
+![Overview_1](https://github.com/user-attachments/assets/a9e2d24d-d3e5-4d0a-94f8-58b67a79d3d5)
+
 ## Folder Structure
 
 ```
